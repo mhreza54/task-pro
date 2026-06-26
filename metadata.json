@@ -1,0 +1,6 @@
+{
+  "name": "Task Pro",
+  "description": "A clean and modern Task Pro with a dark theme, utilizing Supabase as the database.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
