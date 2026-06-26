@@ -100,7 +100,7 @@ This structure improves maintainability, scalability, and code organization.
 1. Clone the repository.
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/task-pro.git
+git clone https://github.com/mhrezacse191/task-pro.git
 ```
 
 2. Open the project in Android Studio.
