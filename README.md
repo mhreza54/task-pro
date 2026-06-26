@@ -95,21 +95,6 @@ This structure improves maintainability, scalability, and code organization.
 * Android SDK
 * JDK 17+
 
-## Installation
-
-1. Clone the repository.
-
-```bash
-git clone https://github.com/mhrezacse191/Task_pro.git
-
-2. Open the project in Android Studio.
-
-3. Sync Gradle.
-
-4. Configure the required environment variables.
-
-5. Run the application on an emulator or Android device.
-
 ---
 
 # 🔮 Future Improvements
