@@ -43,6 +43,18 @@ Task Pro provides secure authentication, cloud synchronization with offline supp
 * Schedule reminder alarms for tasks
 * Receive local notifications before due dates
 
+### Task Pro provides secure authentication, cloud synchronization with offline support, task categorization, priority management, due dates, and reminder notifications, making it a practical productivity application.
+
+## 📸 Screenshots
+
+| Login                      | Home                      |
+|----------------------------|---------------------------|
+| ![](screenshots/login.jpg) | ![](screenshots/home.jpg) |
+
+| Add Task                      | Categories                      |
+|-------------------------------|---------------------------------|
+| ![](screenshots/add-task.jpg) | ![](screenshots/categories.jpg) |
+
 ### ☁️ Cloud Synchronization
 
 * Store tasks securely in Supabase
